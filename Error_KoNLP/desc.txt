@@ -1,0 +1,4 @@
+KoNLP 이용에 문제 있을때...
+
+Fail to locate 'scala-library-2.11.8.jar'. Recommand to locate 'scala-library-2.11.8.jar' manually on C:/Program Files/R/R-4.2.1/library/KoNLP/java
+Checking user defined dictionary!
